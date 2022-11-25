@@ -2,9 +2,8 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - r-base=3.6
+  - r-base=3.7
   - r-tidyverse
-  - RISE
   
   
   
